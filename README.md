@@ -1,5 +1,7 @@
 # daily-programmer-challenges
 
-Solutions to the challenges on [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/). I try to solve the challenge myself without looking at anybody else's solution, then compare that to how other people solved it. 
+Solutions to the challenges on [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/). 
+
+Typically I try to solve the challenge myself first, and then kick myself after seeing how much better other people did.
 
 
